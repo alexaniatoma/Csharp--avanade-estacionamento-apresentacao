@@ -12,3 +12,4 @@ C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0
 C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.pdb
 C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.genruntimeconfig.cache
 C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\ref\estacionamento-csharp.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.sourcelink.json

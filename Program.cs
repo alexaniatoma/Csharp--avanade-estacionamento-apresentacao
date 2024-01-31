@@ -9,8 +9,6 @@ Estacionamento estacionamento = new Estacionamento();
 bool exibirMemu = true;
 while(exibirMemu)
 {
-    //Console.Clear();
-
     Console.WriteLine("1 - Cadastrar");
     Console.WriteLine("2 - Buscar");
     Console.WriteLine("3 - Listar Veículos");
