@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\bin\Debug\net8.0\estacionamento-csharp.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\bin\Debug\net8.0\estacionamento-csharp.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\bin\Debug\net8.0\estacionamento-csharp.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\bin\Debug\net8.0\estacionamento-csharp.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\bin\Debug\net8.0\estacionamento-csharp.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\refint\estacionamento-csharp.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\estacionamento-csharp.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\estacionamento-csharp\obj\Debug\net8.0\ref\estacionamento-csharp.dll
